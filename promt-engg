@@ -1,0 +1,31 @@
+prompt: input to LLM 
+
+generate/enchance prompt>>using specific keywords..>>direct prompt or zero-shot prompt 
+
+good prompt>>less cost(less tokens),API calls
+
+100  workds equals to 60-80 tokens,genrally
+
+
+zero shot prompt(direct prompting)
+===========
+provide prompt without any example
+familiar use cases
+
+
+few shot prompt(recomended>>provides context to LLM)
+=========
+providing example with prompt
+coding sytle,meta data,brings our org style 
+
+multi shot prompt
+==========
+more examples,more context
+
+
+chain of thoughts(COT)
+=================
+enhances LLM output,reasoning
+AI agents
+
+Thumbrule: Provide more context,more texts,more example,but optimize the output of the LLM-define output format.
